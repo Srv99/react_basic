@@ -10,11 +10,15 @@
 - Image optimization
 - Minification
 - Bundling
-- Consistent Hashing
+- Consistent Hashing Algorithm
 - Code splitting
 - Diferential bundling - support old browsers
 - Diagnostic
 - Error handling
-- HTTPs
+- HTTPs on dev
 - Tree shaking - remove unused code
 - Different bundle for production and development
+- Zero config
+- Transitive dependencies
+
+  38.56
